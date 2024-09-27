@@ -1,7 +1,16 @@
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.Scanner;
+import java.util.LinkedList;
+import java.util.Random;
+import java.util.concurrent.ArrayBlockingQueue;
+import java.util.concurrent.BlockingQueue;
+
 public class main {
+
+
+
     public static void main (String[] args){
 //        MyThread myThread= new MyThread();
 //        myThread.start();
@@ -9,14 +18,15 @@ public class main {
 //        Thread thread = new Thread(new Runner());
 //        thread.start();
 
-        Thread timer = new Thread(new timer());
-        timer.start();
+//        Thread timer = new Thread(new timer());
+//        timer.start();
+//
+//        Thread fiveSec = new Thread(new fiveSec());
+//        fiveSec.start();
+//
+//        Thread sevenSec = new Thread(new sevenSec());
+//        sevenSec.start();
 
-        Thread fiveSec = new Thread(new fiveSec());
-        fiveSec.start();
-
-        Thread sevenSec = new Thread(new sevenSec());
-        sevenSec.start();
     }
 }
 
