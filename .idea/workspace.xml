@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2c4dee8-491b-43ac-a636-652cbde662cb" name="Changes" comment="First task">
+    <list default="true" id="c2c4dee8-491b-43ac-a636-652cbde662cb" name="Changes" comment="Level_3">
+      <change afterPath="$PROJECT_DIR$/src/MatrixVectorMultiplicationMultithreaded.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +54,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.DemoThead.executor": "Run",
+    "Application.MatrixVectorMultiplicationMultithreaded.executor": "Run",
     "Application.MyThread.executor": "Run",
     "Application.ProducerConsumer.executor": "Run",
     "Application.ProducerConsumerWithBlockingQueue.executor": "Run",
@@ -132,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726834087245</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Level_2">
+      <option name="closed" value="true" />
+      <created>1727436497033</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727436497033</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +157,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First task" />
-    <option name="LAST_COMMIT_MESSAGE" value="First task" />
+    <MESSAGE value="Level_2" />
+    <MESSAGE value="Level_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Level_3" />
   </component>
 </project>
